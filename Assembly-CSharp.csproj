@@ -71,7 +71,9 @@
     <Compile Include="Assets\Choose5.cs" />
     <Compile Include="Assets\Choose6.cs" />
     <Compile Include="Assets\ControlSound.cs" />
+    <Compile Include="Assets\FoodCreator.cs" />
     <Compile Include="Assets\QuitGame.cs" />
+    <Compile Include="Assets\SnakeHead.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/73842/Desktop/夢の始まり/2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
